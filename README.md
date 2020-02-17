@@ -8,6 +8,7 @@
 
  # O desenvolvimento:
  Meu conhecimento em node e na biblioteca discord.js não são tão vastos, então recorri a alguns tutoriais no Youtube para processeguir com o desenvolvimento.
+
  LINK:[https://www.youtube.com/watch?v=LvErS58YoBM&t=210s]
 
  # Dependencias necessarias para o projeto:
@@ -16,9 +17,11 @@
  1. Você precisa ter o node js instalado
 
     Para instalar o node não é necessario muito esforço, se você possiu um gerenciador de pacotes como o Chocolatey, é possivel instala-lo pelo prompt de comando.
+
     LINK CHOCOLATEY: [https://chocolatey.org/].
 
     Caso não tenha o chocolatey, ou simplismente não goste da telinha preta você pode baixar o node pelo proprio site dele.
+
     LINK NODE JS:[https://nodejs.org/pt-br/download/].
 
 2. Instalando o Windows dev tools
@@ -33,7 +36,9 @@
         Discord.js - 'npm install discord.js'
         Ytdl-core - 'npm install ytdl-core'
         Opus-Script - 'npm install opusscript'
-        FFmpeg - 'npm install ffmpeg-binaries' ou 'ffbinaries' Mas nesse caso em especifico se tentarmos instalar dessa maneira ira ocorrer um erro na instalação, pois a biblioteca não esta mais sendo atualizada, então temos que fazer a instalação manualmente e colocar manualmente a variavel de ambiante FFmpeg no PATH do windows, há uma materia no wikihow do passo a passo de como fazer isso.
+        FFmpeg - 'npm install ffmpeg-binaries' ou 'ffbinaries'
+        Mas nesse caso em especifico se tentarmos instalar dessa maneira ira ocorrer um erro na instalação, pois a biblioteca não esta mais sendo atualizada, então temos que fazer a instalação manualmente e colocar manualmente a variavel de ambiante FFmpeg no PATH do windows, há uma materia no wikihow do passo a passo de como fazer isso.
+        
         LINK: [https://m.wikihow.com/Install-FFmpeg-on-Windows].
 
     Tendo tudo instalado já podemos começar a desenvolver.
