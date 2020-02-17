@@ -9,18 +9,16 @@
  # O desenvolvimento:
  Meu conhecimento em node e na biblioteca discord.js não são tão vastos, então recorri a alguns tutoriais no Youtube para processeguir com o desenvolvimento.
 
- LINK:[https://www.youtube.com/watch?v=LvErS58YoBM&t=210s]
+ [Video que usei como base](https://www.youtube.com/watch?v=LvErS58YoBM&t=210s)
 
  # Dependencias necessarias para o projeto:
  Irei listar como foi feita a instalação das dependencias e o que é necessarios para instala-las:
 
  1. Você precisa ter o node js instalado
 
-    Para instalar o node não é necessario muito esforço, se você possiu um gerenciador de pacotes como o Chocolatey, é possivel instala-lo pelo prompt de comando.
+    Para instalar o node não é necessario muito esforço, se você possiu um gerenciador de pacotes como o [Chocolatey](https://chocolatey.org/), é possivel instala-lo pelo prompt de comando.
 
-    LINK CHOCOLATEY: [https://chocolatey.org/].
-
-    Caso não tenha o chocolatey, ou simplismente não goste da telinha preta você pode baixar o node pelo proprio site dele.
+    Caso não tenha o [Chocolatey](https://chocolatey.org/), ou simplismente não goste da telinha preta você pode baixar o node pelo proprio site dele.
 
     LINK NODE JS:[https://nodejs.org/pt-br/download/].
 
@@ -40,12 +38,12 @@
 
     Mas nesse caso em especifico se tentarmos instalar dessa maneira ira ocorrer um erro na instalação, pois a biblioteca não esta mais sendo atualizada, então temos que fazer a instalação manualmente e colocar manualmente a variavel de ambiante FFmpeg no PATH do windows, há uma materia no wikihow do passo a passo de como fazer isso.
 
-    LINK: [https://m.wikihow.com/Install-FFmpeg-on-Windows].
+    [WikiHow - Install FFmpeg on Windows](https://m.wikihow.com/Install-FFmpeg-on-Windows).
 
     Tendo tudo instalado já podemos começar a desenvolver.
 
     IDE usada:
-    VSCode LINK: [https://code.visualstudio.com].
+    [VSCode](https://code.visualstudio.com).
 
 # Por que DJ Sona?
 Bom Dj Sona é uma Skin para a pensonagem Sona do jogo League Of Legends, do qual eu sou muito fã, embora eu não jogue com a personagem achei que seria legal (e talvez engraçado?) usar a personagem como bot para tocar musica assim como ela faz no jogo (algumas frases que o bot diz no servidor tem referencia as falas dela no jogo).
