@@ -37,9 +37,10 @@
         Ytdl-core - 'npm install ytdl-core'
         Opus-Script - 'npm install opusscript'
         FFmpeg - 'npm install ffmpeg-binaries' ou 'ffbinaries'
-        Mas nesse caso em especifico se tentarmos instalar dessa maneira ira ocorrer um erro na instalação, pois a biblioteca não esta mais sendo atualizada, então temos que fazer a instalação manualmente e colocar manualmente a variavel de ambiante FFmpeg no PATH do windows, há uma materia no wikihow do passo a passo de como fazer isso.
-        
-        LINK: [https://m.wikihow.com/Install-FFmpeg-on-Windows].
+
+    Mas nesse caso em especifico se tentarmos instalar dessa maneira ira ocorrer um erro na instalação, pois a biblioteca não esta mais sendo atualizada, então temos que fazer a instalação manualmente e colocar manualmente a variavel de ambiante FFmpeg no PATH do windows, há uma materia no wikihow do passo a passo de como fazer isso.
+
+    LINK: [https://m.wikihow.com/Install-FFmpeg-on-Windows].
 
     Tendo tudo instalado já podemos começar a desenvolver.
 
