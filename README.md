@@ -44,6 +44,9 @@
 
     Tendo tudo instalado já podemos começar a desenvolver.
 
-# IDE usada:
-VSCode
+    IDE usada:
+    VSCode LINK: [https://code.visualstudio.com].
+
+# Por que DJ Sona?
+Bom Dj Sona é uma Skin para a pensonagem Sona do jogo League Of Legends, do qual eu sou muito fã, embora eu não jogue com a personagem achei que seria legal (e talvez engraçado?) usar a personagem como bot para tocar musica assim como ela faz no jogo (algumas frases que o bot diz no servidor tem referencia as falas dela no jogo).
 
