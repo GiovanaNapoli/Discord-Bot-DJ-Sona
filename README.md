@@ -2,9 +2,9 @@
  Repositorio para o meu bot de discord que toca musica usando uma API node do Youtube
 
  # Descrição:
- Com o objetivo de aprofundar meus estudos na linguagem Javascript, resolvi criar um bot para a plataforma Discord com o framework Node js, utilizando a biblioteca 'discord.js'.
+ Com o objetivo de aprofundar meus estudos na linguagem Javascript, resolvi criar um bot para a plataforma Discord com o framework Node js, utilizando a biblioteca '[discord.js](https://discord.js.org/#/)'.
 
- Este bot tem apenas o objetivo de tocar uma musica escolhida pelo membro do servidor, para isso é utilizada a biblioteca 'ytdl-core' que busca a musica no youtube e também a biblioteca 'opusscript' e 'ffmpeg'.
+ Este bot tem apenas o objetivo de tocar uma musica escolhida pelo membro do servidor, para isso é utilizada a biblioteca '[ytdl-core](https://www.npmjs.com/package/ytdl-core)' que busca a musica no youtube e também a biblioteca '[opusscript](https://www.npmjs.com/package/opusscript)' e '[ffmpeg](https://ffmpeg.zeranoe.com/builds/)'.
 
  # O desenvolvimento:
  Meu conhecimento em node e na biblioteca discord.js não são tão vastos, então recorri a alguns tutoriais no Youtube para processeguir com o desenvolvimento.
@@ -18,9 +18,7 @@
 
     Para instalar o node não é necessario muito esforço, se você possiu um gerenciador de pacotes como o [Chocolatey](https://chocolatey.org/), é possivel instala-lo pelo prompt de comando.
 
-    Caso não tenha o [Chocolatey](https://chocolatey.org/), ou simplismente não goste da telinha preta você pode baixar o node pelo proprio site dele.
-
-    LINK NODE JS:[https://nodejs.org/pt-br/download/].
+    Caso não tenha o [Chocolatey](https://chocolatey.org/), ou simplismente não goste da telinha preta você pode baixar o node pelo proprio site  do [node js](https://nodejs.org/pt-br/download/)
 
 2. Instalando o Windows dev tools
     Algumas das bibliotecas irão precisar que o computador tenha algumas coisas instaladas, como o Python, para isso devemos instalar o dev tools do windows, para isso usaremos apenas um comando no prompt em modo de administrador:
